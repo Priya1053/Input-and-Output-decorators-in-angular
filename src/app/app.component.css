@@ -1,0 +1,33 @@
+.parent {
+    border-radius: 10%;
+    border: 3px solid rgb(140, 80, 80);
+    color: brown;
+    background-color:rgb(150, 186, 187);
+    margin: auto;
+    margin-top: 10%;
+    padding: 1%;
+}
+.child {
+    border-radius: 10%;
+    border: 3px solid rgb(61, 22, 22);
+    color: brown;
+    background-color:rgb(57, 127, 130);
+    margin: auto;
+    margin-top: 10%;
+    padding: 2%;
+}
+button{
+    color:green;
+    background-color:rgb(165, 140, 140);
+    text-align: center;
+    margin: 2%;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding: 1%;}
+
+
+img{
+    size: 1px;
+    width: 20%;
+    
+}
